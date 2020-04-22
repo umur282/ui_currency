@@ -1,2 +1,2 @@
 # ui_currency
-getting date from web and showing that in user interface
+getting data from web and showing that in user interface
